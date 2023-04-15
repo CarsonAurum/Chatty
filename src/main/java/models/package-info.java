@@ -1,0 +1,4 @@
+/**
+ * Model classes.
+ */
+package models;
